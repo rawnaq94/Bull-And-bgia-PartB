@@ -24,9 +24,6 @@ namespace bullpgia
         
         private:
         void swap(char &a, char &b);
-        void combinations(string x, int y, int z);
-        
-       
-        
+        void combinations(string x, int y, int z);       
     }; 
 }
