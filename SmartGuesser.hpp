@@ -14,7 +14,7 @@ namespace bullpgia
         string first = ""; //first Guess
         list <string> comb; //list of combinations
         uint length;
-        int coun = 0; //counter of Guess
+        int count = 0; //counter of Guess
         int num = 0; 
         
 
