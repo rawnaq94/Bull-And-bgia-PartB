@@ -54,7 +54,7 @@ void bullpgia::SmartGuesser::startNewGame(uint length)
     } // Must start with zeros
     
     num = 0; 
-    cout = 0; 
+    count = 0; 
     cout<<"starts a new game"<<endl;
 }
 
